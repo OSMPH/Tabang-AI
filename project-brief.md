@@ -1,6 +1,6 @@
 # OSM-Philippines AI assisted road mapping project
 
-*Draft concept note for launching AI-Assisted mapping in the Philippines, final copy should be posted in OSM Wiki and talk-ph list.*
+*Draft concept note for launching AI-Assisted mapping in the Philippines, final copy posted in [OSM Wiki](https://wiki.openstreetmap.org/wiki/Philippines/Tabang-AI) and talk-ph list.*
 
 ### Overview
 
