@@ -13,7 +13,7 @@ Data included are the following:
 * 2019-09-06 - version 1
   * Known issue - Bacolod City is not included due to geometry issue of the polygon from HDX's administrative boundaries.
 
-
-### Source
+### Sources
 * Facebook Connectivity Lab and Center for International Earth Science Information Network - CIESIN - Columbia University. 2016. High Resolution Settlement Layer (HRSL). Source imagery for HRSL © 2016 DigitalGlobe. Accessed 01 June 2019.
-* [Philippine administrative data](https://data.humdata.org/dataset/philippines-administrative-levels-0-to-3). National Mapping and Resource Information Authority (NAMRIA), Philippines Statistics Authority (PSA). 2018. Philippines administrative level 3 (municipality) boundary polygon shapefile. Humanitarian Data Exchange (https://data.humdata.org/). Accessed 12 August 2019.
+* [Philippine administrative data](https://data.humdata.org/dataset/philippines-administrative-levels-0-to-3). National Mapping and Resource Information Authority (NAMRIA), Philippines Statistics Authority (PSA). 2018. Philippines administrative level 3 (municipality) boundary polygon shapefile.
+* Humanitarian Data Exchange (https://data.humdata.org/). Accessed 12 August 2019.
