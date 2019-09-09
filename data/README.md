@@ -15,4 +15,4 @@ Data included are the following:
 
 ### Sources
 * Facebook Connectivity Lab and Center for International Earth Science Information Network - CIESIN - Columbia University. 2016. [High Resolution Settlement Layer (HRSL)](https://www.ciesin.columbia.edu/data/hrsl/). Source imagery for HRSL © 2016 DigitalGlobe. Accessed 01 June 2019.
-* National Mapping and Resource Information Authority (NAMRIA), Philippines Statistics Authority (PSA). 2016. [Indicative Municipal/City boundaries of the Philippines (Second quarter 2016)](https://drive.google.com/folderview?id=0B_mbnh1cDD4NSEN1ZWxsTUt1R0E&fbclid=IwAR1FLwtjs9Sr74VjGkYS4g44xPvPG9up52FpWJQDunktEzOjpV_WI2kb0bo).  Accessed 12 August 2019.
+* National Mapping and Resource Information Authority (NAMRIA), Philippines Statistics Authority (PSA). 2016. Indicative Municipal/City boundaries of the Philippines (Second quarter 2016).  Accessed 12 August 2019.
