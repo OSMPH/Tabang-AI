@@ -1,11 +1,11 @@
 # HRSL Philippines derived vectors
 
-This data was derived from Facebook's [High Resolution Settlement Layer](https://ai.facebook.com/blog/mapping-the-world-to-help-aid-workers-with-weakly-semi-supervised-learning/) for the Philippines.
+This data was derived from Facebook's [High Resolution Settlement Layer](https://ai.facebook.com/blog/mapping-the-world-to-help-aid-workers-with-weakly-semi-supervised-learning/) (HRSL) for the Philippines.
 
 Data included are the following:
 
 * `hrsl_ph_buffer100m_v1.geojson.zip` - HRSL vector with a buffer of 100 meters, joined with administrative [Pcodes](https://www.humanitarianresponse.info/en/help/cod-pcodes-use-hrinfo).
-* `hrsl_ph_500m_grid_v1.geojson.zip` - 500m grid based intersected with `hrsl_ph_buffer100m_v1.geojson`.
+* `hrsl_ph_500m_grid_v1.geojson.zip` - 500m grid intersected with `hrsl_ph_buffer100m_v1.geojson`.
 * `ph_admin_code.csv` - Administrative names and Pcodes up to admin level 3 (municipality) which can be joined to the above GeoJSON.
  
 ### Changelog
