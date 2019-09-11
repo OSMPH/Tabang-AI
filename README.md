@@ -8,6 +8,6 @@ More info in our [project brief](project-brief.md).
 
 **Tabang-AI** (*tá.ba.ngay.*), word play on the Cebuano word tábangay which means "collaboration" or "teamwork". 
 
-### [On-going mapping projects](https://github.com/OSMPH/Tabang-AI/wiki/Mapping-projects)
+### [On-going mapping projects](projects.md)
 
 
