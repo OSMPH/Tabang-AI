@@ -8,6 +8,9 @@ More info in our [project brief](project-brief.md).
 
 **Tabang-AI** (*tá.ba.ngay.*), word play on the Cebuano word tábangay which means "collaboration" or "teamwork". 
 
-### [On-going mapping projects](projects.md)
+### What do you want to do?
+
+#### :rocket: [Propose a collaboration](../../issues/new/choose) &nbsp;&nbsp;&nbsp; :mag:[Check out what's going on](../../issues?q=is%3Aissue), or see a [summary](projects.md) of completed ones.
+
 
 
